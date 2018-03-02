@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bytan-Direct</string>
+
+    <string name="yes">Yes.</string>
+    <string name="no">No.</string>
+    <string name="empty_message">No devices found. Turn on P2P and perform discovery from the Action Bar.</string>
+    <string name="p2p_off_warning">Enable P2P from action bar button above or system settings.</string>
+    <string name="group_owner_text">"Am I the Group Owner? "</string>
+    <string name="unregistered_receiver">Unregistered receiver.</string>
+    <string name="channel_lost">Channel lost. Trying again.</string>
+    <string name="channel_lost_permanent">Severe! Channel is probably lost premanently. Try Disable/Re-Enable P2P.</string>
+    <string name="p2p_supported">Sorry. Your Android is not supported Wifi P2P.</string>
+    <string name="no_device">No devices found.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
